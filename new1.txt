@@ -7,7 +7,7 @@ int main()
     
     scanf("%d %d", &firstNumber, &secondNumber);
 
-    sumOfTwoNumbers = firstNumber + secondNumber;
+    sum= firstNumber + secondNumber;
    
     printf("%d + %d = %d", firstNumber, secondNumber, sumOfTwoNumbers);
 
